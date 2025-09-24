@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <!-- [![MasterHead](your image link)](your GitHub link) -->
-<h1 align="left">Nice to meet you! I'm Sebastian.☆</h1>
+<h1 align="left">Nice to meet you! I'm Sebastian.</h1>
 
 🖥️ I'm a student studying Computer Science and Applied Mathematics @ TXST!</br> 
 🖱️ Interested in Cybersecurity, Game Development and Information Technology!</br>
 💻 I use he/him/his pronouns</br>
-🧑‍💻 Fun Fact: I collect Tamagotchis! 𖦹
+🧑‍💻 Fun Fact: I collect Tamagotchis!
 
 <h3 align="left">Make a Connection!</h3>
 <p align="left">
